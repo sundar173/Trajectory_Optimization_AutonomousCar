@@ -1,0 +1,5 @@
+Instructions to run the code:
+
+1. Ensure both the m files are in the same path
+2. Run the file SQP_Project.m
+2. If you have any trouble running the code, kindly reach out to us.
